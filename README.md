@@ -1,7 +1,18 @@
-# LumProTech Website
+# LumProTech Official Website Package V8
 
-Static B2B LED display website for https://lumprotech.com/.
+Optimized to improve professional trust and inquiry conversion.
 
-## Deployment
+Main updates:
+- Removed internal/generated wording from public pages.
+- Homepage hero copy strengthened around Philippines local warehouse support.
+- Mobile hamburger menu added.
+- Mobile bottom CTA bar added: WhatsApp / Email / Quote.
+- Homepage simplified into conversion-focused structure:
+  Hero, Products, Why Choose, Featured Projects, Philippines Support, Factory, Quote Info, FAQ, Final CTA.
+- Contact form fields improved for LED display project inquiries.
+- SEO title, meta description, FAQ and sitemap updated.
+- Product cards include specifications and applications.
+- Project cards include application details.
+- Visual cards and shadows refined for a more professional B2B style.
 
-The site is compatible with GitHub Pages and Vercel. All paths are relative and no build step is required.
+Deployable to GitHub Pages.
